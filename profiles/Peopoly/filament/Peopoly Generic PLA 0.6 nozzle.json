@@ -1,0 +1,36 @@
+
+{
+    "type": "filament",
+    "filament_id": "GFL99",
+    "setting_id": "GFSL99",
+    "name": "Peopoly Generic PLA 0.6 nozzle",
+    "from": "system",
+    "instantiation": "true",
+    "inherits": "fdm_filament_pla",
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "nozzle_temperature_initial_layer":[
+        "225"
+    ],
+    "nozzle_temperature":[
+        "220"
+    ],
+    "hot_plate_temp_initial_layer":["60"],
+    "hot_plate_temp":["60"],
+    "fan_max_speed":[
+        "65"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "filament_type": [
+        "PLA"
+    ],
+    "compatible_printers": [
+        "Peopoly Magneto X 0.6 nozzle"
+    ]
+}
