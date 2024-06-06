@@ -11,16 +11,16 @@
         "40"
     ],
     "filament_flow_ratio": [
-        "0.94"
+        "0.98"
     ],
     "nozzle_temperature_initial_layer":[
-        "225"
+        "215"
     ],
     "nozzle_temperature":[
-        "220"
+        "210"
     ],
-    "hot_plate_temp_initial_layer":["60"],
-    "hot_plate_temp":["60"],
+    "hot_plate_temp_initial_layer":["50"],
+    "hot_plate_temp":["50"],
     "fan_max_speed":[
         "70"
     ],
@@ -31,6 +31,7 @@
         "PLA"
     ],
     "compatible_printers": [
+        "Peopoly Magneto X 0.4 nozzle",
         "Peopoly Magneto X 0.8 nozzle"
     ]
 }
